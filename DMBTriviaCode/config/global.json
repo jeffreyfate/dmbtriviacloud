@@ -1,0 +1,18 @@
+{
+    "applications": {
+        "DMB Trivia Production": {
+            "applicationId": "ImI8mt1EM3NhZNRqYZOyQpNSwlfsswW73mHsZV3R", 
+            "masterKey": "QirtSimQTDJhPsCsIdGbEz9ymw5gclXhugs0l6ZD"
+        }, 
+        "DMB Trivia Test": {
+            "applicationId": "6pJz1oVHAwZ7tfOuvHfQCRz6AVKZzg1itFVfzx2q", 
+            "masterKey": "cbhbYVGvhpoWBDvRMeje5oirutXBvCN6bluzo9Xt"
+        }, 
+        "_default": {
+            "link": "DMB Trivia Test"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.1.15"
+    }
+}
